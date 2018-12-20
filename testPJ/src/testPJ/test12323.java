@@ -6,6 +6,7 @@ public class test12323 {
 		// TODO 자동 생성된 메소드 스텁asdasdasdadadsadsadssdsadsd
 		System.out.println("dd");
 		System.out.println("Sadadsa");
+		System.out.println("dsadsadasdsakdjsakj");
 	}
 
 }
