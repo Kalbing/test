@@ -10,7 +10,7 @@ public class test12323 {
 		System.out.println("dsadsadasdsakdjsakj");
 		System.out.println("ASDsdadsa");
 
-		.asedsjadasdadjlajdladasdas
+		System.out.println("멍충이");
 		
 
 	}
