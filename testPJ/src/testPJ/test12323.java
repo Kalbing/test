@@ -6,7 +6,10 @@ public class test12323 {
 		// TODO �ڵ� ������ �޼ҵ� ����asdasdasdadadsadsadssdsadsd
 		System.out.println("dd");
 		System.out.println("Sadadsa");
-		System.out.println("멍충이멍충이멍충이멍충이멍충이");
+
+		System.out.println("dsadsadasdsakdjsakj");
+		System.out.println("ASDsdadsa");
+
 	}
 
 }
